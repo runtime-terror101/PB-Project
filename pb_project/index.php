@@ -22,7 +22,7 @@
         }
 
         input[type=submit] {
-        width: 20em;  height: 2em;
+        width: 12em;  height: 2em;
         }  
         
         h2 {  
@@ -31,12 +31,6 @@
         
         .form_group {  
         padding: 10px;  
-        ;    
-        display: block;  
-        } 
-
-        .form_submit {  
-        padding: 40px;  
         ;    
         display: block;  
         } 
@@ -77,5 +71,12 @@
                 </div>
             </div>    
         </form>    
-    </body>    
+    </body>
+    
+    <?php 
+    if( isset($_GET['message'])) {
+        echo "User already exists\n Head to login or signup with a different id";
+    }
+    
+    ?>
 </html>    

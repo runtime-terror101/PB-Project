@@ -19,19 +19,20 @@ if($link === false){
 $sql = "SELECT * FROM users WHERE email_id='$email' ";
 
 if($result=mysqli_query($link, $sql)){
-    //#echo "Records inserted successfully.";
-    $row = mysqli_fetch_array($result))
+    $row = mysqli_fetch_array($result);
     if($row['upassword']==$pwd){
         echo "Welcome";
+        //send him to the main page using header function
+    }
     else{
-        echo "Wrong password, enter again"
-        header("Location:index_login.php");
+        $message= "Wrong password, enter again";
+        header("Location:login.php?message=$message");
         exit();
     }
         // header("Location:vishDecbyExp.php");
         // exit();
     }
-} else{
+else{
     echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
 }
 
