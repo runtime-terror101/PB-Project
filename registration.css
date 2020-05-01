@@ -9,7 +9,7 @@
                 }  
                 
         body {
-        background-image: url("Website.jpeg");   
+        background-image: url("Website_reg.jpeg");   
         background-repeat: no-repeat;
         background-size: 100% 100%;
         font-size: 30px;  
@@ -23,7 +23,7 @@
         h2 {  
         text-align: center; 
         color: white;
-        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-width: 2px;
         -webkit-text-stroke-color: black; 
         }  
 
