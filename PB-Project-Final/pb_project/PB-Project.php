@@ -64,10 +64,6 @@
                     }
                     document.getElementById('jokeDisplay').innerHTML="<marquee><b>"+text+"</b></marquee>";
                         
-                    function closeWin() {
-                      <?php header("Location:meet.php"); ?>
-                    myWindow.close();   // Closes the new window
-                    }
 
                     </script>
 
@@ -97,7 +93,7 @@
 
 										<!--------- EMOTIONS ----------------->
 
-                  <div class="spotlight">
+                    <div class="spotlight">
                     <div class="content">
 
 
@@ -135,7 +131,7 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                                 </div>
@@ -144,33 +140,6 @@
                             </div>
                           </div>
                         </div>
-
-
-
-                      <!-- <div class="container">
-                          
-                          <div class="panel-group">
-                            <div class="panel panel-default">
-                              <div class="panel-heading">
-                                <h4 class="panel-title">
-                                  <a data-toggle="collapse" href="#collapse1"><h2>Happy</h2></a>
-                                </h4>
-                              </div>
-                              <div id="collapse1" class="panel-collapse collapse">
-                                <div class="panel-body">Panel Body
-
-
-
-
-                                </div>
-                                
-                              </div>
-                            </div>
-                          </div>
-                        </div> -->                     
-
-                
-
 
 
 
@@ -207,7 +176,7 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
@@ -226,8 +195,19 @@
 
                 <div class="spotlight">
                     <div class="content">
-                      <h2>Anxious</h2>
-                      <p>Yikes!</p>
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse3"><h2>Anxious</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse3" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                    <p>Yikes!</p>
                       <h6><b>Symptoms: </b></h6>
                       <ul>
                         <li>Stressed out</li>
@@ -260,19 +240,40 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
-                  </div>
+                  </div>                
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 
-                <hr>
+
+                      
+                      
 
 
                 <div class="spotlight">
                     <div class="content">
-                      <h2>Paranoid</h2>
-                      <p>Oof!</p>
+
+
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse4"><h2>Paranoid</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse4" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                  <p>Oof!</p>
                       <h6><b>Symptoms: </b></h6>
                       <ul>
                         <li>Being defensive, hostile, and aggressive</li>
@@ -297,19 +298,41 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
                   </div>
 
-                <hr>
+
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+
+
 
 
                 <div class="spotlight">
                     <div class="content">
-                      <h2>Depressed</h2>
-                      <p>Glad to hear</p>
+
+
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse5"><h2>Depressed</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse5" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                  <p>Glad to hear</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
                       <ul class="actions">
@@ -329,20 +352,38 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
                   </div>
 
-                <hr>
 
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+ 
 
 
                 <div class="spotlight">
                     <div class="content">
-                      <h2>Insomniac</h2>
-                      <p>Glad to hear</p>
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse6"><h2>Insomniac</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse6" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                  <p>Glad to hear</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
                       <ul class="actions">
@@ -358,21 +399,39 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
                   </div>
 
-                <hr>
 
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 
 
 
                 <div class="spotlight">
                     <div class="content">
-                      <h2>Chronophobic</h2>
-                      <p>Glad to hear</p>
+
+
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse7"><h2>Chronophobic</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse7" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                  <p>Glad to hear</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
                       <ul class="actions">
@@ -388,22 +447,40 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
                   </div>
 
-                <hr>
 
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 
 
 
 
                 <div class="spotlight">
                     <div class="content">
-                      <h2>Cleithrophobic</h2>
-                      <p>Glad to hear</p>
+
+
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse8"><h2>Cleithrophobic</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse8" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                  <p>Glad to hear</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
                       <ul class="actions">
@@ -419,20 +496,39 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
                   </div>
 
-                <hr>
+
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 
 
 
-                <div class="spotlight">
+              <div class="spotlight">
                     <div class="content">
-                      <h2>Home-sick</h2>
-                      <p>Glad to hear</p>
+
+
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse9"><h2>Home-sick</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse9" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                  <p>Glad to hear</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
                       <ul class="actions">
@@ -448,22 +544,38 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
                   </div>
 
-                <hr>
 
-
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>                     
+    
 
 
 
                 <div class="spotlight">
                     <div class="content">
-                      <h2>Lonely</h2>
-                      <p>Glad to hear</p>
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse10"><h2>Lonely</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse10" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                    <p>Glad to hear</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
                       <ul class="actions">
@@ -479,45 +591,40 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
 
                     </div>
-                  </div>
+                  </div>                
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 
-                <hr>
 
-
-<!-- 
-                <div class="spotlight">
-                    <div class="content">
-                      <h2>Apathetic</h2>
-                      <p>Glad to hear</p>
-                      <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
-                      </ul>
-
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
-                      </ul>
-
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
-                      </ul>
-
-                    </div>
-                  </div>
-
-                <hr> -->
-
+                      
 
 
                 <div class="spotlight">
                     <div class="content">
-                      <h2>Frustrated</h2>
-                      <p>Glad to hear</p>
+
+
+                      <div class="container">
+                          
+                          <div class="panel-group">
+                            <div class="panel panel-default">
+                              <div class="panel-heading">
+                                <h4 class="panel-title">
+                                  <a data-toggle="collapse" href="#collapse11"><h2>Frustrated</h2></a>
+                                </h4>
+                              </div>
+                              <div id="collapse11" class="panel-collapse collapse">
+                                <div class="panel-body">
+
+                                  <p>Glad to hear</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
                       <ul class="actions">
@@ -534,48 +641,30 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
+                        <li><a href="#help" class="button">Help someone else out</a></li>
                       </ul>
-
                     </div>
                   </div>
 
-                <hr>
 
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
 
-                <div class="spotlight">
-                    <div class="content">
-                      <h2>Fearful of the future</h2>
-                      <p>Glad to hear</p>
-                      <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
-                      </ul>
+    
 
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://hasofferstracking.betterhelp.com/aff_c?offer_id=25&aff_id=1510&aff_sub3=n99d6ddb9e5e04d1e87e06d3f59f4238521" class="button">Counselling for teens</a></li>
-                      </ul>
-
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
-                      </ul>
-
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Help someone else out</a></li>
-                      </ul>
-
-                    </div>
-                  </div>
-
-                <hr>
+                
 
                
                     </div>
                   </div>
                 
 
-              </section>
+							</section>
               
               <section id="fun">
                     <h3>Fun Stuff!</h3>
