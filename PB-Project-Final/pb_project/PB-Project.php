@@ -760,8 +760,13 @@
               </div></div>
                 
                 <hr>
-              <div class = "container">
-                <div class = "container">
+
+
+
+
+             <!--  <div class = "container">
+                <div class = "container"> -->
+                  
                 <h5>Recent Quotes and Stories by Fellow Users</h5>
                 <?php 
                 $link = mysqli_connect("localhost", "root", "", "stay_at_home");
@@ -794,10 +799,10 @@
                 
                 
                 ?>
-                </div></div>
 
+            
 
-
+               <!--  </div></div> -->
                     </div>
                   </div>
                 <hr>
