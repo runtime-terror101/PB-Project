@@ -3,9 +3,19 @@
 <html>
 
 	<head>
-		<title>QuarantineBuddy</title>
+		<title>ChatRoom</title>
 
-		<!-- <link rel="stylesheet" type="text/css" href="PB-ProjectStyle.css"> -->
+		<style type="text/css">
+            @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+            body {
+            background-image: url("anon.jpeg");   
+            background-repeat: no-repeat;
+            background-size: 120% 200%;
+            font-size: 20px;  
+            font-family: "Source Sans Pro", Helvetica, sans-serif; 
+            color: white;
+            }      
+        </style>
 		
     </head>
     
