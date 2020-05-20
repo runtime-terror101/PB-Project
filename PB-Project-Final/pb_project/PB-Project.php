@@ -718,6 +718,11 @@
                     <ul class="actions">
                         <li><a target="_blank" href="chat.php" class="button">Global Chat Room</a></li>
                       </ul>
+                
+                <!-- Parth's chat , add link to his page-->
+                      <ul class="actions">
+                        <li><a target="_blank" href="123" class="button">Anonymous Personal Chat</a></li>
+                      </ul>
 
                       <ul class="actions">
                         <li><a target="_blank" href="meet.php" class="button">Meet Others</a></li>
