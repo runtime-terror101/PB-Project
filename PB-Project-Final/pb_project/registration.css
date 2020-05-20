@@ -9,9 +9,9 @@
                 }  
                 
         body {
-        background-image: url("Website.jpeg");   
+        background-image: url("Website_reg.jpeg");   
         background-repeat: no-repeat;
-        background-size: 100% 100%;
+        background-size: 120% 100%;
         font-size: 30px;  
         font-family: "Source Sans Pro", Helvetica, sans-serif; 
         }
@@ -85,7 +85,6 @@
                 display: inline-block;
                 font-size: 0.8em;
                 font-weight: 900;
-                font-family: "Source Sans Pro", Helvetica, sans-serif;
                 height: 3.5em;
                 letter-spacing: 0.35em;
                 line-height: 3.45em;
