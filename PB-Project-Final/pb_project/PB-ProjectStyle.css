@@ -1216,3 +1216,28 @@ input::-moz-focus-inner {
 
 		}
 
+
+#Games {
+  background-image: url("games-background.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+
+#Sports {
+  background-image: url("sports-background.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+#Yoga {
+  background-image: url("yoga-background.jpeg");
+  width: 100%;
+  align-self: center;
+} 
+
+#Workout {
+  background-image: url("workout.jpeg");
+  width: 100%;
+  align-self: center;
+} 
