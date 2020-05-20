@@ -3,31 +3,31 @@
 
 <html>
 
-	<head>
-		<title>QuarantineBuddy</title>
+  <head>
+    <title>QuarantineBuddy</title>
 
     <link rel="stylesheet" type="text/css" href="PB-ProjectStyle.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-		
-	</head>
+    
+  </head>
 
   <body class="is-preload">
-		<!-- Wrapper -->
-			<div id="wrapper">
+    <!-- Wrapper -->
+      <div id="wrapper">
 
-				<!-- Header -->
-					<header id="header">
-						<div class="inner">
+        <!-- Header -->
+          <header id="header">
+            <div class="inner">
 
-							<!-- Logo -->
-								<a class="logo">
-									<span class="title">Hello There!</span>
-								</a>
+              <!-- Logo -->
+                <a class="logo">
+                  <span class="title">Hello There!</span>
+                </a>
 
-						</div>
-					</header>
+            </div>
+          </header>
 
 
 
@@ -71,27 +71,27 @@
 
 
 
-				
+        
 
 
-										<!-- Main -->
-        	<div id="main">
-						<div class="inner">
+                    <!-- Main -->
+          <div id="main">
+            <div class="inner">
 
               <a href="#fun">Go straight to fun activities?</a>
               <hr>
 
-							<header>
-								<h1>How are you feeling today?</h1>
-								<p>Maybe we can help life those spirits up :)</p>
-							</header>
+              <header>
+                <h1>How are you feeling today?</h1>
+                <p>Maybe we can help life those spirits up :)</p>
+              </header>
 
-							<section id="intro" class="main">
-								<div class="spotlight">
-									<div class="content">
+              <section id="intro" class="main">
+                <div class="spotlight">
+                  <div class="content">
 
 
-										<!--------- EMOTIONS ----------------->
+                    <!--------- EMOTIONS ----------------->
 
                     <div class="spotlight">
                     <div class="content">
@@ -99,7 +99,6 @@
 
 
                       <div class="container">
-                          <!-- <h2>Happy</h2> -->
                           <div class="panel-group">
                             <div class="panel panel-default">
                               <div class="panel-heading">
@@ -123,11 +122,7 @@
                       </ul>
                       
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
-                      </ul>
-
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
+                        <li><a target="_blank" href="https://www.reddit.com/r/UpliftingNews/" class="button">Uplifting News</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -168,7 +163,7 @@
                       </ul>
                       
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
+                        <li><a target="_blank" href="https://www.reddit.com/r/UpliftingNews/" class="button">Uplifting News</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -290,6 +285,10 @@
                       </ul>
 
                       <ul class="actions">
+                        <li><a target="_blank" href="https://www.reddit.com/r/UpliftingNews/" class="button">Uplifting News</a></li>
+                      </ul>
+
+                      <ul class="actions">
                         <li><a target="_blank" href="https://www.webmd.com/anxiety-panic/ss/slideshow-ways-to-stop-panic-attack" class="button">Ways to Stop a Panic Attack</a></li>
                       </ul>
 
@@ -332,11 +331,27 @@
                               <div id="collapse5" class="panel-collapse collapse">
                                 <div class="panel-body">
 
-                                  <p>Glad to hear</p>
-                      <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
+                                  <p>Uh-oh!</p>
+                      <h6><b>Symptoms: </b></h6>
+                      <ul>
+                        <li>Trouble concentrating, remembering details, and making decisions</li>
+                        <li>Fatigue</li>
+                        <li>Feelings of guilt, worthlessness, and helplessness</li>
+                        <li>Pessimism and hopelessness</li>
+                        <li>Insomnia, early-morning wakefulness, or sleeping too much</li>
+                        <li>Irritability</li>
+                        <li>Restlessness</li>
+                        <li>Loss of interest in things once pleasurable, including sex</li>
+                        <li>Overeating, or appetite loss</li>
+                        <li>Aches, pains, headaches, or cramps that won't go away</li>
+                        <li>Digestive problems that don't get better, even with treatment</li>
+                        <li>Persistent sad, anxious, or "empty" feelings</li>
+                        <li>Suicidal thoughts or attempts</li>
+                        <li>Changes in your menstrual cycle</li>
+                      </ul>
                       
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
+                        <li><a target="_blank" href="https://www.reddit.com/r/UpliftingNews/" class="button">Uplifting News</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -348,7 +363,7 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
+                        <li><a target="_blank" href="https://www.puzzler.com/online-puzzles/" class="button">Puzzles</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -383,19 +398,23 @@
                               <div id="collapse6" class="panel-collapse collapse">
                                 <div class="panel-body">
 
-                                  <p>Glad to hear</p>
-                      <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
+                                  <p>Yeesh!</p>
+                      <h6><b>Symptoms: </b></h6>
+                      <ul>
+                        <li>Difficulty falling asleep</li>
+                        <li>Not feeling well rested after waking up</li>
+                        <li>Waking up too early</li>
+                        <li>Daytime sleepiness</li>
+                        <li>Problems with memory and concentration</li>
+                        <li>Ongoing worries about sleep</li>
+                      </ul>
                       
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
+                        <li><a target="_blank" href="https://www.webmd.com/sleep-disorders/understanding-insomnia-treatment" class="button">Treatment</a></li>
                       </ul>
 
                       <ul class="actions">
                         <li><a target="_blank" href="https://hasofferstracking.betterhelp.com/aff_c?offer_id=25&aff_id=1510&aff_sub3=n99d6ddb9e5e04d1e87e06d3f59f4238521" class="button">Counselling for teens</a></li>
-                      </ul>
-
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -480,12 +499,19 @@
                               <div id="collapse8" class="panel-collapse collapse">
                                 <div class="panel-body">
 
-                                  <p>Glad to hear</p>
-                      <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
-                      
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
+                                  <p>Oh no!</p>
+                      <h6><b>Symptoms: </b></h6>
+                      <ul>
+                        <li>Dread</li>
+                        <li>Speedy respiration</li>
+                        <li>Irregular heartbeat</li>
+                        <li>Inability to articulate words/sentences</li>
+                        <li>Shaking</li>
+                        <li>Need to escape</li>
+                        <li>Lashing out</li>
+                        <li>Freezing up</li>
                       </ul>
+                      
 
                       <ul class="actions">
                         <li><a target="_blank" href="https://hasofferstracking.betterhelp.com/aff_c?offer_id=25&aff_id=1510&aff_sub3=n99d6ddb9e5e04d1e87e06d3f59f4238521" class="button">Counselling for teens</a></li>
@@ -528,15 +554,15 @@
                               <div id="collapse9" class="panel-collapse collapse">
                                 <div class="panel-body">
 
-                                  <p>Glad to hear</p>
+                                  <p>:(</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
                       
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
+                        <li><a target="_blank" href="https://www.insider.com/online-games-activities-to-try-with-long-distance-friends-family-2020-3" class="button">Fun activities to do with the family</a></li>
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
+                        <li><a target="_blank" href="https://www.insider.com/online-games-apps-play-with-family-kids-multiplayer" class="button">Online games to play with your parents and/or siblings</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -577,17 +603,13 @@
 
                                     <p>Glad to hear</p>
                       <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
-                      
-                      <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
-                      </ul>
 
                       <ul class="actions">
                         <li><a target="_blank" href="https://link to our website" class="button">Try our online chat forum</a></li>
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
+                        <li><a target="_blank" href="https://www.miniclip.com/games/genre-2/multiplayer/en/" class="button">Multiplayer games online</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -624,11 +646,36 @@
                               <div id="collapse11" class="panel-collapse collapse">
                                 <div class="panel-body">
 
-                                  <p>Glad to hear</p>
-                      <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
+                                  <p>Ugh!</p>
+                      <h6><b>Symptoms: </b></h6>
+                      <ul>
+                        <li>Easily Annoyed</li>
+                        <li>Want to engage in negative/destructive behaviours</li>
+                      </ul>
+                      <hr>
+                      <h6><b>Things that contribute to frustration: </b></h6>
+                      <ul>
+                        <li>Stagnation at work, or loss of a job, losing a promotion</li>
+                        <li>Emotional difficulties or loss, including bereavement, a diagnosable psychological condition, loss of a friend</li>
+                        <li>Your state of health, and any physical or medical conditions</li>
+                        <li>Financial situation, including bankruptcy, being overextended, wasteful spending</li>
+                      </ul>
+                      <hr>
+                      <h6><b>Treatment: </b></h6>
+                      <ul>
+                        <li>Breathing exercises</li>
+                        <li>Meditation practice</li>
+                        <li>Yoga</li>
+                        <li>Physical exercise</li>
+                        <li>Relaxation activities</li>
+                        <li>Taking up a hobby or pastime</li>
+                        <li>Cognitive restructuring</li>
+                        <li>Learning how to release emotion</li>
+                        <li>Psychological counseling or therapy</li>
+                      </ul>
                       
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">News</a></li>
+                        <li><a target="_blank" href="https://www.reddit.com/r/UpliftingNews/" class="button">Uplifting News</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -637,7 +684,7 @@
 
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
+                        <li><a target="_blank" href="https://www.puzzler.com/online-puzzles/" class="button">Puzzles</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -664,7 +711,7 @@
                   </div>
                 
 
-							</section>
+              </section>
               
               <section id="fun">
                     <h3>Fun Stuff!</h3>
@@ -677,7 +724,7 @@
                       </ul>
                     
                     <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Games</a></li>
+                        <li><a target="_blank" href="https://store.steampowered.com/" class="button">Games</a></li>
                       </ul>
                     
                     <ul class="actions">
@@ -685,11 +732,11 @@
                       </ul>
                   </section>
                   <hr>
-							
-						<!-- </div>
-					</div> -->
+              
+            <!-- </div>
+          </div> -->
 
-          <section id="halp">
+          <section id="help">
                 <div class="spotlight">
                   <div class="content">
                     <h5>Any advice/personal experience you'd like to share?</h5>
@@ -752,28 +799,28 @@
 
                 <a target="_blank" href="full_quotes.php" class="button">Show more quotes</a>
 
-							</section>
-							
-						</div>
-					</div>
-				
+              </section>
+              
+            </div>
+          </div>
+        
 
 
-					<footer id="footer">
-						<div class="inner">
-							<ul class="copyright">
-								<li>Made by </li>
+          <footer id="footer">
+            <div class="inner">
+              <ul class="copyright">
+                <li>Made by </li>
                 <li>Juhi Pandey,</li> 
                 <li>Vishesh Agrawal,</li> 
                 <li>Ankit Rana, </li>
                 <li>Parth Garg</li>
                 <li>Sarthak Pal</li>
-							</ul>
-						</div>
-					</footer>
+              </ul>
+            </div>
+          </footer>
 
 
 
-			</div>
-	</body>
+      </div>
+  </body>
 </html>
