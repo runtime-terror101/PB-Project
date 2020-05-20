@@ -1216,3 +1216,51 @@ input::-moz-focus-inner {
 
 		}
 
+
+#Games {
+  background-image: url("games-background.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+
+#Sports {
+  background-image: url("sports-background.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+#Yoga {
+  background-image: url("yoga-background.jpeg");
+  width: 100%;
+  align-self: center;
+} 
+
+#Workout {
+  background-image: url("workout.jpeg");
+  width: 100%;
+  align-self: center;
+} 
+
+#Puzzles {
+  background-image: url("Puzzles.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+#TV {
+  background-image: url("TV.jpeg");
+  width: 100%;
+  align-self: center;
+}  
+
+#Stream {
+  background-image: url("Stream.jpeg");
+  width: 100%;
+  align-self: center;
+}  
+#Movies {
+  background-image: url("Movies.jpeg");
+  width: 100%;
+  align-self: center;
+}  
