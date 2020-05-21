@@ -1230,11 +1230,11 @@ input::-moz-focus-inner {
   align-self: center;
 }
 
-#Yoga {
+/*#Yoga {
   background-image: url("yoga-background.jpeg");
   width: 100%;
   align-self: center;
-} 
+} */
 
 #Workout {
   background-image: url("workout.jpeg");
@@ -1264,3 +1264,60 @@ input::-moz-focus-inner {
   width: 100%;
   align-self: center;
 }  
+
+#Cooking {
+  background-image: url("cook.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+#Dance {
+  background-image: url("dance.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+#Chess {
+  background-image: url("chess.jpeg");
+  width: 100%;
+  align-self: center;
+} 
+
+#Music {
+  background-image: url("music.jpeg");
+  width: 100%;
+  align-self: center;
+}  
+
+#fun {
+  background-image: url("fun.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+
+
+.btn-group btn {
+  background-color: #FF69B4; 
+  border: 1px #9400D3; 
+  color: white; /* White text */
+  padding: 20px 48px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+
+.btn-group btn:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Add a background color on hover */
+.btn-group btn:hover {
+  background-color: #9370DB;
+}
