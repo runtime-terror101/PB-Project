@@ -1141,6 +1141,14 @@
                       <ul class="actions">
                         <li><a target="_blank" href="https://www.youtube.com/watch?v=czt4V6RB4pk&t=272s" class="button">Quick Full Body Workout</a></li>
                       </ul>
+                      <h3>Cure fit</h3>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.cure.fit" class="button">Website</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://play.google.com/store/apps/details?id=fit.cure.android" class="button">App</a></li>
+                      </ul>
+
 
               </section>
 
