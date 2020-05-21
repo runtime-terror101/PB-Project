@@ -720,7 +720,7 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="meet.php" class="button">Meet Others</a></li>
+                        <li><a target="_blank" href="https://discord.gg/J9JN6d" class="button">Socialize</a></li>
                       </ul>
                     
                     <ul class="actions">
