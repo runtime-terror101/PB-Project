@@ -1,0 +1,33 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css";
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+
+body {
+	background-image: url("Website_light.jpeg"), 
+	-webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+	line-height: 1;
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+
+
+h3 {
+	font-weight: 600;
+	color: white;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+.navbar-brand{
+	background-color: rgb(250,128,114);
+	border-color: black;
+	border-width: 1px;
+}
+
+.nav-link, .nav-link {
+	background-color: rgb(255,228,225);
+	border-color: black;
+	border-width: 1px;
+}
