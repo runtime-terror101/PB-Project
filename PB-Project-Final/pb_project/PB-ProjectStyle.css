@@ -1230,11 +1230,11 @@ input::-moz-focus-inner {
   align-self: center;
 }
 
-#Yoga {
+/*#Yoga {
   background-image: url("yoga-background.jpeg");
   width: 100%;
   align-self: center;
-} 
+} */
 
 #Workout {
   background-image: url("workout.jpeg");
@@ -1264,3 +1264,33 @@ input::-moz-focus-inner {
   width: 100%;
   align-self: center;
 }  
+
+#Cooking {
+  background-image: url("cook.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+#Dance {
+  background-image: url("dance.jpeg");
+  width: 100%;
+  align-self: center;
+}
+
+#Chess {
+  background-image: url("chess.jpeg");
+  width: 100%;
+  align-self: center;
+} 
+
+#Music {
+  background-image: url("music.jpeg");
+  width: 100%;
+  align-self: center;
+}  
+
+#fun {
+  background-image: url("fun.jpeg");
+  width: 100%;
+  align-self: center;
+}
