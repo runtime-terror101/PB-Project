@@ -30,6 +30,9 @@ else{
     $sql = "INSERT INTO users (uname, email_id, upassword,age) VALUES ('$name','$email','$pwd','$age')";
     if(mysqli_query($link, $sql)){
         echo "Records inserted successfully.";
+        //Write to run the script to send email
+        $hello=shell_exec("python Send_email.py $email $name");
+        //echo $hello;
         header("Location:login.php");
         exit(0);
     } else{
