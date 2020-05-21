@@ -1,55 +1,19 @@
-
-
 <html>    
+    <div class="topnav">
+      <div class="topnav-right">
+        <a target="_blank" href="test.html">Covid-Updates</a>
+      </div>
+    </div>
+
     <head>    
-        <title>Registration Form</title> 
-        <link href = "registration.css" type = "text/css" rel = "stylesheet" />   
+        <title>Registration Form</title>    
+        <link href = "registration.css" type = "text/css" rel = "stylesheet" /> 
     </head>    
     <body>  
-        <!-- <style>
-        .container {  
-        max-width: 1350px;  
-        width: 100%;  
-        margin: 50px;  
-        height: auto;  
-        display: block;  
-        }  
-        
-        body {  
-        color: #8A2BE2;  
-        font-size: 20px;  
-        font-family: Verdana, Arial, Helvetica, monospace;  
-        background-color: #F0E8A0;  
-        }
-
-        input[type=submit] {
-        width: 12em;  height: 2em;
-        }  
-        
-        h2 {  
-        text-align: center;  
-        }  
-        
-        .form_group {  
-        padding: 10px;  
-        ;    
-        display: block;  
-        } 
-        
-        label {  
-        float: left;  
-        padding-right: 50px;  
-        line-height: 10%;  
-        display: block;  
-        width: 208px;  
-        }     
-        </style> -->
-         <!-- <link href = "registration.css" type = "text/css" rel = "stylesheet" />  -->
+         
         <h2>Sign Up</h2>    
-        <form name = "form1" action="insert_signup.php" method = "get" enctype = "multipart/form-data" > 
+        <form name = "form1" action="insert.php" method = "get" enctype = "multipart/form-data" > 
         <form>
-
-    <!-- <font face = "Comic sans MS" size =" 5">Comic Sans MS</font><br /> -->
         <div class = "container">
             <div class = "container">    
                 <div class = "form_group">    
@@ -68,19 +32,18 @@
                     <label>Password:</label>    
                     <input type = "password" name = "pwd" value = "" required/>    
                 </div>  
-                <div class = "form_group">    
-                    <!-- <label>Submit:</label>   -->
-                    
-                    <input type = "submit" name = "submit" value = "Submit" required/>    
+
+
+                <!-- <div class = "form_group">    
+                    <label>Submit:</label>  
+                    <input type = "submit" name = "submit" value = "" required/>    
+                </div> -->
+
+                <div class = "form_group">
+                    <a target="_blank" href="https://link to main page" class="button">SUBMIT</a>
                 </div>
+
             </div>    
         </form>    
-    </body>
-    
-    <?php 
-    if( isset($_GET['message'])) {
-        echo "User already exists\n Head to login or signup with a different id";
-    }
-    
-    ?>
+    </body>    
 </html>    
