@@ -756,7 +756,7 @@
                       </ul>
 
                     <ul class="actions">
-                        <li><a href="#Yoga" class="button">Yoga</a></li>
+                        <li><a target="_blank" href="https://www.yogastudioapp.com/" class="button">Yoga</a></li>
                       </ul>
 
                     <ul class="actions">
@@ -976,15 +976,15 @@
                       </ul>                       
               </section>
 
-              <section id="Yoga">
+              <!-- <section id="Yoga">
                 <h2>Yoga</h2>
                       <ul class="actions">
                         <li><a target="_blank" href="https://www.yogastudioapp.com/" class="button">App</a></li>
                       </ul>
-                      <!-- <ul class="actions">
+                       <ul class="actions">
                         <li><a target="_blank" href="https://www.miniclip.com/games/en/" class="button">Miniclip</a></li>
-                      </ul>       -->          
-              </section>
+                      </ul>               
+              </section> -->
 
               <section id="Music">
                 <h2>Music</h2>
