@@ -54,4 +54,4 @@ if __name__ == '__main__':
     All_username_pairs = {}
     Unpaired_people = []
 
-    socketio.run(app, debug=True, host="192.168.30.176")
+    socketio.run(app, debug=True)
