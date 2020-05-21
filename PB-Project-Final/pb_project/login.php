@@ -18,7 +18,7 @@
             <div class = "container">    
                 <div class = "form_group">    
                     <label>Email:</label>    
-                    <input type = "text" name = "email" value = "" required/>    
+                    <input type = "email" name = "email" value = "" required/>    
                 </div>         
                 <div class = "form_group">    
                     <label>Password:</label>    
