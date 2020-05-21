@@ -166,9 +166,9 @@
                         <li><a target="_blank" href="https://www.reddit.com/r/UpliftingNews/" class="button">Uplifting News</a></li>
                       </ul>
 
-                      <ul class="actions">
+                      <!-- <ul class="actions">
                         <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
-                      </ul>
+                      </ul> -->
 
                       <ul class="actions">
                         <li><a href="#help" class="button">Help someone else out</a></li>
@@ -355,7 +355,7 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Try our online chat forum</a></li>
+                        <li><a target="_blank" href="chat.php" class="button">Try our online chat forum</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -434,7 +434,7 @@
 
 
 
-                <div class="spotlight">
+                <!-- <div class="spotlight">
                     <div class="content">
 
 
@@ -478,7 +478,7 @@
                               </div>
                             </div>
                           </div>
-                        </div>
+                        </div> -->
 
 
 
@@ -518,7 +518,7 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Puzzles</a></li>
+                        <li><a target="_blank" href="https://driveandlisten.herokuapp.com" class="button">Try this out!</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -566,7 +566,7 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Try our online chat forum</a></li>
+                        <li><a target="_blank" href="chat.php" class="button">Try our online chat forum</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -601,11 +601,11 @@
                               <div id="collapse10" class="panel-collapse collapse">
                                 <div class="panel-body">
 
-                                    <p>Glad to hear</p>
-                      <h6><b>Symptoms: </b>TROLOLOL NO ONE IS HAPPY IN IIITD, CHOSE SOMETHING ELSE</h6>
+                                    <p>Darn it!</p>
+                      <h6>Use this time to reconnect with family and friends but don't forget to spend some quality with yourself. Go on an exploration with yourself to find what you like </h6>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Try our online chat forum</a></li>
+                        <li><a target="_blank" href="chat.php" class="button">Try our online chat forum</a></li>
                       </ul>
 
                       <ul class="actions">
@@ -679,7 +679,7 @@
                       </ul>
 
                       <ul class="actions">
-                        <li><a target="_blank" href="https://link to our website" class="button">Try our online chat forum</a></li>
+                        <li><a target="_blank" href="chat.php" class="button">Try our online chat forum</a></li>
                       </ul>
 
 
@@ -757,6 +757,22 @@
 
                     <ul class="actions">
                         <li><a href="#Yoga" class="button">Yoga</a></li>
+                      </ul>
+
+                    <ul class="actions">
+                        <li><a href="#Music" class="button">Music</a></li>
+                      </ul>
+
+                    <ul class="actions">
+                        <li><a href="#Dance" class="button">Dance</a></li>
+                      </ul>
+
+                    <ul class="actions">
+                        <li><a href="#Chess" class="button">Chess</a></li>
+                      </ul>
+
+                    <ul class="actions">
+                        <li><a href="#Cooking" class="button">Cooking</a></li>
                       </ul>
 
                     <ul class="actions">
@@ -969,6 +985,121 @@
                         <li><a target="_blank" href="https://www.miniclip.com/games/en/" class="button">Miniclip</a></li>
                       </ul>       -->          
               </section>
+
+              <section id="Music">
+                <h2>Music</h2>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=TlrHN5tlg2I&list=PLJnHjhfsRd1oLG3v3qqJ72yZEpTUKvfnp&index=1" class="button">Guitar</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=TlrHN5tlg2I&list=PLJnHjhfsRd1oLG3v3qqJ72yZEpTUKvfnp&index=1" class="button">Flute </a></li>
+                      </ul> 
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=3j3LkHFJmJE&list=PL8dtOMjtlSMRJfkbzJJRWttKfQf5z7Nba&index=1" class="button">Keyboard</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=et9hU7QMDYU&list=PLrtlBUjcYAnCVWka4J5nbDbbaLT9nU-th&index=1" class="button">Drum</a></li>
+                      </ul>    
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=iPbCdOsrDK4&list=PL6urkeK7KgD6z9rImgxwiqBYZVwq31zlg" class="button">Violin</a></li>
+                      </ul>  
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=hXKUicqg0bU&list=PLbAzI1rqV3WK2c6M6mG3G3HXQy05q_KP_&index=2&t=0s
+" class="button">Tabla</a></li>
+                      </ul>             
+              </section>
+
+              <section id="Dance">
+                <h2>Dance</h2>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=hR9Gj2aLEQQ&list=PLgHhhzb9o1Rq2oGJngrsFpIOxMFUh2Wo9" class="button">Breakdance </a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=Ax3LF-EPvKU&list=PL_pFZy113yg2uF1tE5zr_c_FYvPvKebfS " class="button">Bhangra</a></li>
+                      </ul> 
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=bmety40FIis&list=PLgHhhzb9o1Rp08dEeZv3AJXEVxT6tELQ7
+                        " class="button">Hip hop</a></li>
+                      </ul>  
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=STzzos2rxz0&list=PLgHhhzb9o1Ro58veHJvvMBKVeoNKoaqY6" class="button">Freestyle</a></li>
+                      </ul>  
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=MDabYz9V0SI" class="button">Bharatanatyam </a></li>
+                      </ul>  
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/channel/UCT0EeR8SMCItnnOgmLfEjoQ/featured" class="button">Kathak</a></li>
+                      </ul>  
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/watch?v=z6yAzVjoJpc&list=PLiGLFaoQ5mAFzxamEHNzIiRT0TGyGTi0n" class="button">Bollywood</a></li>
+                      </ul>                 
+              </section>
+
+              <section id="Chess">
+                <h2>Chess</h2>
+                    <h3>To Play</h3>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://lichess.org" class="button">lichess</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="www.chess.com" class="button">chess.com</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://chess24.com/en/play/chess" class="button">chess24</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.chessclub.com" class="button">chess club</a></li>
+                      </ul>
+                    <h3>To Learn</h3>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://chessmood.com" class="button">ChessMood</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://blog.feedspot.com/chess_youtube_channels/" class="button">Videos</a></li>
+                      </ul>    
+                    <h3>Chess News sites</h3>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://en.chessbase.com" class="button">ChessBase</a></li>
+                      </ul>
+                    <h3>Books</h3>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.ichess.net/blog/best-10-chess-books/" class="button">Ichess</a></li>
+                      </ul> 
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.goodreads.com/list/show/6623.Best_Chess_Books" class="button">GoodReads</a></li>
+                      </ul>   
+
+              </section>
+
+
+              <section id="Cooking">
+                <h2>Cooking</h2>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.allrecipes.com/?page=2" class="button">Recipes</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.bettycrocker.com/" class="button">Cookboooks</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="http://www.eatingwell.com/" class="button">Healthy recipes</a></li>
+                      </ul>  
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.thespruceeats.com/indian-4162611" class="button">Indian food and recipes</a></li>
+                      </ul>      
+                      <h3>Chefs teaching Indian Cuisine</h3>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/user/NishaMadhulika" class="button">Nisha Madhulika</a></li>
+                      </ul> 
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/user/chefkunal3005" class="button">Kunal</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.youtube.com/user/swaadanusaar" class="button">Swaad Anusar</a></li>
+                      </ul>
+                      
+
+              </section>
+
 
               <section id="Workout">
                 <h2>Workout</h2>
