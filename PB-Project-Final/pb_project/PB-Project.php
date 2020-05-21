@@ -748,6 +748,11 @@
                       </ul>
 
                     <ul class="actions">
+                        <li><a target="_blank" href="127.0.0.1:5000" class="button">Anonymous Personal Chat</a></li>
+                      </ul>
+
+
+                    <ul class="actions">
                         <li><a href="#Puzzles" class="button">Puzzles</a></li>
                       </ul>
 
