@@ -897,7 +897,19 @@
                       </ul>
                       <ul class="actions">
                         <li><a target="_blank" href="https://www.youtube.com/watch?v=pQ_UdQ6kczA&list=PLox1kfMm75BwPSxKkMEHwO5pJV9hk_RUM" class="button">Podcast</a></li>
-                      </ul>                
+                      </ul> 
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.fourfourtwo.com/" class="button">Football News</a></li>
+                      </ul>   
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.tennis.com/" class="button">Tennis</a></li>
+                      </ul>       
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://www.nba.com/news" class="button">NBA</a></li>
+                      </ul>
+                      <ul class="actions">
+                        <li><a target="_blank" href="https://bwfbadminton.com/news/" class="button">Badminton</a></li>
+                      </ul>  
               </section>
 
               <section id="Puzzles">
